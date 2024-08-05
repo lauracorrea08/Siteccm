@@ -1,3 +1,3 @@
-# Site-CCM
-## desenvolvido em html e css - Matemática II Programação  
+# 
+## disponivel no site https://www.gurinaserra.com.br/cultura-gaucha
 ### desenvolvido por: Laura correa.
